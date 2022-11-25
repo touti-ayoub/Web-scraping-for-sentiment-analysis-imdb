@@ -2,7 +2,9 @@
 
 ## Web scraping sci-fi movies on IMDB and Sentiment Analysis the godfather reviews using <strong>Jupyter Notebook, NLP TextBlob, NLTK - VADER</strong>
 
-TextBlob is a python library and offers a simple API to access its methods and perform basic NLP tasks.
+Data scraping and cleaning done with python using Jupyter Notebook
+
+ Sentiment analysis done with TextBlob, which is a python library that offers a simple API to access its methods and perform basic NLP tasks.
 
 Sentiment analysis is basically the process of determining the attitude or the emotion of the writer, i.e., whether it is positive or negative or neutral.
 

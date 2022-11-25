@@ -11,6 +11,9 @@ The sentiment function of textblob returns two properties, polarity, and subject
 Polarity is float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement. Subjective sentences generally refer to personal opinion, emotion or judgment whereas objective refers to factual information. Subjectivity is also a float which lies in the range of [0,1].
 
 To use this project on your system First u need to install TextBlob, use: 
+
 `pip install -U textblob`
-This will install TextBlob. For the uninitiated – practical work in Natural Language Processing typically uses large bodies of linguistic data, or corpora. To download the necessary corpora, you can run the following command
+
+This will install TextBlob. For the uninitiated – practical work in Natural Language Processing typically uses large bodies of linguistic data, or corpora. To download the necessary corpora, you can run the following command:
+
 `python -m textblob.download_corpora`

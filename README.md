@@ -1,6 +1,6 @@
 # Web-scraping-for-sentiment-analysis-imdb
 
-##Web scraping sci-fi movies on IMDB and Sentiment Analysis the godfather reviews using <strong>Jupyter Notebook, NLP TextBlob, NLTK - VADER</strong>
+## Web scraping sci-fi movies on IMDB and Sentiment Analysis the godfather reviews using <strong>Jupyter Notebook, NLP TextBlob, NLTK - VADER</strong>
 
 TextBlob is a python library and offers a simple API to access its methods and perform basic NLP tasks.
 

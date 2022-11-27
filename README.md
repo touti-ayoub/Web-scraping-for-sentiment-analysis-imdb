@@ -1,10 +1,21 @@
 # Web-scraping-for-sentiment-analysis-imdb
 
-## Web scraping sci-fi movies on IMDB and Sentiment Analysis the godfather reviews using <strong>Jupyter Notebook, NLP TextBlob</strong>
-
 Data scraping and cleaning done with python using Jupyter Notebook
 
- Sentiment analysis done with TextBlob, which is a python library that offers a simple API to access its methods and perform basic NLP tasks.
+## Scraped movies 
+
+![Screenshot 2022-11-27 012342](https://user-images.githubusercontent.com/59805646/204113869-be23d97b-2c06-435b-b6f6-5269fa811127.png)
+
+
+## Scraped reviews for Black Adam movie
+
+![Screenshot 2022-11-27 012515](https://user-images.githubusercontent.com/59805646/204113891-b6e634e1-d9c7-4440-b199-8553429abfea.png)
+
+
+Sentiment analysis done with TextBlob, which is a python library that offers a simple API to access its methods and perform basic NLP tasks.
+
+![image](https://user-images.githubusercontent.com/59805646/204113912-083b96ab-9acc-4d1e-bd27-edbbaa73c695.png)
+
 
 Sentiment analysis is basically the process of determining the attitude or the emotion of the writer, i.e., whether it is positive or negative or neutral.
 
